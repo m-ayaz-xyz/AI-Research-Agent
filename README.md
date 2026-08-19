@@ -4,6 +4,8 @@ A multi-agent research system that takes a user-provided topic, searches the web
 
 The project is built with Python, LangChain, Mistral, Tavily, BeautifulSoup, FastAPI, and Next.js.
 
+![Agent Interface](public/AI Agent.png)
+
 ## Overview
 
 The system follows a sequential research pipeline:
