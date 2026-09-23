@@ -799,20 +799,6 @@ For production deployment, additional controls should be added:
 
 ---
 
-# License
-
-Add the license that matches your intended usage.
-
-For example:
-
-```text
-MIT License
-```
-
-if you want the project to be open-source under the MIT license.
-
----
-
 # Author
 
 Mohammad Ayaz
